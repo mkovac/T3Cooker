@@ -1,0 +1,21 @@
+/README/1.3/Mon Oct 22 13:31:58 2012//
+/dummyaccess.py/1.1/Wed Sep 26 12:06:23 2012//
+/envutil.py/1.1/Wed Sep 26 12:08:07 2012//
+/fileutil.py/1.1/Wed Sep 26 12:11:20 2012//
+/findDuplicate.csh/1.1/Wed Sep 26 12:13:59 2012//
+/progressbar.py/1.1/Tue Nov  6 14:12:40 2012//
+/removeZeroSizeFilesFromDPM.sh/1.1/Wed Sep 26 12:16:33 2012//
+/rfio.py/1.1/Wed Sep 26 12:17:32 2012//
+/t3cooker/1.1/Wed Sep 26 12:18:41 2012//
+/t3cooker.cfg/1.1/Wed Sep 26 12:19:52 2012//
+/t3cooker.py/1.4/Thu Jan 10 12:21:19 2013//
+/t3cookerSetup/1.1/Wed Sep 26 12:19:52 2012//
+/t3cooker_PATprodMar12.cfg/1.1/Wed Sep 26 12:19:53 2012//
+/t3cooker_allSamples.sh/1.2/Mon Oct 22 13:16:30 2012//
+/t3cooker_cmssw_job_template.sh/1.2/Mon Oct 22 13:16:30 2012//
+/t3cooker_cmssw_py_template.py/1.1/Wed Sep 26 12:19:53 2012//
+/t3cooker_exe_job_template.sh/1.1/Wed Sep 26 14:01:01 2012//
+/t3cooker_find.sh/1.2/Mon Oct 22 13:16:30 2012//
+/t3cooker_forceResubmit.sh/1.1/Wed Sep 26 12:19:54 2012//
+/t3cooker_llrTrees_example.cfg/1.1/Mon Oct 22 13:15:17 2012//
+D
